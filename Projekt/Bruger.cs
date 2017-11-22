@@ -13,7 +13,7 @@ namespace Projekt
         public string Email { get; set; }
         public string Kodeord { get; set; }
         public static int count = 1;
-        //yo yo yo usup man
+        
 
         public Bruger()
         {
